@@ -59,19 +59,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityakasara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=00F5D4" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakasara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top Languages" height="160" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityakasara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" height="145" />
-</div>
-
----
 
 ### 📬 Connect With Me
 
